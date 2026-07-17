@@ -7,6 +7,10 @@ real problems.
 
 ## 🚀 Live Projects
 
+### Aura - AI UNIFIED RESOURCE AGENT
+Multi-agent AI wellness platform with 7 specialized agents (Planner, Financial, Fitness, Nutrition, Mental Health, General, Creative) coordinated through a custom planner architecture. Built with Python, LangChain, and Hugging Face.
+Live app: https://aura-ai-n7k0kpplj-aura-ai-app.vercel.app/
+
 ### CV Analyzer
 AI tool that analyzes your resume and gives professional feedback instantly
 - 🔴 Live app: https://huggingface.co/spaces/BJK21011/cv-analyzer
